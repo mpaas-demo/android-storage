@@ -1,0 +1,24 @@
+<resources>
+<string name="app_name">存储</string>
+    <string name="db_storage">数据库存储</string>
+    <string name="random_user">随机生成用户</string>
+    <string name="insert_user">插入用户</string>
+    <string name="user_name_is">用户名为</string>
+    <string name="user_color_is">用户颜色为</string>
+    <string name="user_time_is">用户生成时间为</string>
+    <string name="user_repeated">用户已存在，插入失败</string>
+
+    <string name="kv_storage">键值对存储</string>
+    <string name="random_kv">随机生成键值对</string>
+    <string name="insert_kv">插入键值对</string>
+    <string name="key_is">Key为</string>
+    <string name="value_is">Value为</string>
+
+    <string name="file_storage">文件存储</string>
+    <string name="random_file">随机生成文件</string>
+    <string name="insert_file">插入文件</string>
+    <string name="name_is">文件名径为</string>
+    <string name="path_is">文件路径为</string>
+    <string name="content_is">文件内容为</string>
+    <string name="file_type_is">文件类型为</string>
+</resources>
